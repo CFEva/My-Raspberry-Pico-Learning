@@ -1,2 +1,2 @@
-# My-Raspberry-Pico-Learing
-My Raspberry Pico Learing
+我的树莓派pico学习代码分享
+注意:代码以树莓派pico w为基础，和pico的部分代码可能不同，如led和gp25等，敬请谅解
